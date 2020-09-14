@@ -2,6 +2,7 @@
 
 * Студент: [Татьяна Грицкевич](https://up.htmlacademy.ru/htmlcss/29/user/1542427).
 * Наставник: `Неизвестно`.
+* Наставник: [Максим Корелин](https://htmlacademy.ru/profile/maxzbest).
 
 ---
 
